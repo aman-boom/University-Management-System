@@ -1,0 +1,8 @@
+{
+  "name": "cms-smart-portal",
+  "version": "1.0.0",
+  "description": "Campus Management System Smart Portal",
+  "scripts": {
+    "start": "npm start --prefix backend"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules/
+backend/data/*.db
+backend/data/*.db-*
+backend/.env
+.DS_Store
+backend/firebase-service-account.json
